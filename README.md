@@ -4,4 +4,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-![image alt](https://github.com/Dangg11/Dangg11/blob/main/descarga%20(2).jpg?raw=true)
+
+<img src="[ruta/de/tu/imagen.jpg](https://github.com/Dangg11/Dangg11/blob/main/descarga%20(2).jpg)" alt="olaw">
