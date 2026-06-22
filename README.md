@@ -1,3 +1,6 @@
+>[!CAUTION]
+>OLA
+
 <h1 align="center">ola w, soy Daniel 🐙</h1>
 <h3 align="center">"por cada taza de arroz, tres de agua" 🐍📦</h3>
 
